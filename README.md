@@ -6,16 +6,25 @@ Objective
 The objective of this project is to identify the key factors driving employee attrition and provide actionable insights for improving workforce retention in an organization. This dashboard provides insights into the attrition of an organization, helping the HR team with their further analysis.
 
 Throughout this project, I've had the chance to:
+
 🔍 Dive deep into HR data to uncover valuable insights.
+
 📊 Develop interactive dashboards to visualize key HR metrics.
+
 💡 Provide data-driven recommendations for strategic decision-making.
 
 Learned about:
+
 🧮 Calculated Field: To calculate Attrition Rate & Find out the Attrition Count.
+
 📋 Matrix Table: To show Job Satisfaction rating.
+
 🍩 Donut Chart and 🥧 Pie Chart.
+
 📊 Stacked Column Chart, Bar Chart and 📉 Area Chart.
+
 🎯 KPI (Key Performance Indicators) and 🔀 Slicer.
+
 🔍 Filters: Used to filter data according to different education fields.
 
 Key Insights Summary:
