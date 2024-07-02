@@ -25,7 +25,7 @@ Learned about:
 
 🎯 KPI (Key Performance Indicators) and 🔀 Slicer.
 
-🔍 Filters: Used to filter data according to different education fields.
+🔍 Filters: Used to filter data according to different Department and Gender.
 
 Key Insights Summary:
 - Total Employees: The organization has grown significantly, currently employing 1470 individuals, indicating substantial growth and scale.
