@@ -27,13 +27,49 @@ Learned about:
 
 🔍 Filters: Used to filter data according to different Department and Gender.
 
-Key Insights Summary:
-- Total Employees: The organization has grown significantly, currently employing 1470 individuals, indicating substantial growth and scale.
-- Attrition Analysis: A total of 237 employees left the organization. Among them 150 were male and 87 were female indicating a higher attrition rate among males.
-- Departmental Attrition: The Research and Development Department experienced the highest attrition rate at 56.13%, suggesting potential areas for improvement in employee retention 
-  strategies in this department.
-- Education Field Impact: Employees in the life sciences field had the highest attrition rate, emphasizing the need to address retention challenges in this specific area.
-- Job Role Affected: The sales role had the highest attrition rate, indicating a need for focused retention efforts in this department to reduce turnover.
-- Attrition Rate by Gender for Different Age Groups: The attrition count among the age group of 26-35 years is 116, which is the highest among other age groups.
+Key Insights and Recommendations Summary: 📌
+
+Organizational Growth: 📈
+ - The organization has grown significantly, currently employing 1470 individuals, indicating substantial growth and scale.
+
+Attrition Overview: 💼
+ - A total of 237 employees left the organization. Among them, 150 were male and 87 were female, indicating a higher attrition rate among males.
+ - Recommendation: Pay attention to gender disparities in attrition and promote diversity and inclusion.
+
+Average Age of Departing Employees: 🎂
+ - The average age of employees who left the company is 37 years.
+ - Recommendation: Implement retention strategies for employees around 40 years old.
+
+Departmental Attrition: 🏢
+ - The Research & Development department witnessed the highest attrition, accounting for 133 of the total.
+ - Recommendation: Address attrition in the Research & Development department.
+
+Tenure and Attrition: ⏳
+ - Among employees who left, the highest attrition rate was observed among those who spent 1 year at the company (25%), followed by 2 years (11%) and 5 years (9%).
+ - Recommendation: Develop employee engagement initiatives for early career employees.
+
+Salary Range and Attrition: 💵
+ - The majority of employees who left the company belonged to the salary range below $5000 per month, comprising 163 individuals.
+ - Recommendation: Enhance compensation and benefits for employees in lower salary ranges.
+
+Educational Background and Attrition: 🎓
+ - The educational background of employees who left the company indicates that 89 individuals had a Life Science background, 63 had a Medical background, and 35 had a Marketing background.
+ - Recommendation: Provide opportunities for career growth and learning based on educational backgrounds.
+
+Gender-Based Attrition: 🚻
+ - Male employees experienced an attrition rate of 17%, while female employees had a slightly lower attrition rate of 14.8%.
+ - Recommendation: Pay attention to gender disparities in attrition and promote diversity and inclusion.
+
+Department-Specific Attrition Rates: 📉
+ - The attrition rate in the Research & Development department was the highest at 56%, followed by Sales at 39% and the HR Department at 5%.
+ - Recommendation: Mitigate attrition in the Research & Development and Sales departments with department-specific strategies.
+
+Salary Range Distribution: 💰
+ - Approximately 69% of employees who left the company fell under the salary range below $5000, while 21% fell under the $5000-$10,000 range, 8% under the $10,000-$15,000 range, and 2% 
+   under the $20,000+ range.
+ - Recommendation: Regularly review and adjust salary ranges to ensure competitiveness.
+
+
+
 
 
