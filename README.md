@@ -69,7 +69,7 @@ Salary Range Distribution: 💰
    under the $20,000+ range.
  - Recommendation: Regularly review and adjust salary ranges to ensure competitiveness.
 
-Live Dashboard- https://app.powerbi.com/view?r=eyJrIjoiODZkYmYyMTYtNTkyNC00NmU3LWIxMTgtZWZjODNlN2YwY2QwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Live Dashboard- [here](https://app.powerbi.com/view?r=eyJrIjoiODZkYmYyMTYtNTkyNC00NmU3LWIxMTgtZWZjODNlN2YwY2QwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
